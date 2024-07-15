@@ -42,20 +42,20 @@
         "amount": 550
         },
         {
-        "id": 4,
+        "id": 4, 
         "customer_id": 3,
         "date": "2022-01-01",
         "amount": 500
         },
         {
         "id": 5,
-
+ 
         "customer_id": 2,
         "date": "2022-01-02",
         "amount": 1300
         },
         {
-        "id": 6,
+        "id": 6, 
         "customer_id": 4,
         "date": "2022-01-01",
         "amount": 750

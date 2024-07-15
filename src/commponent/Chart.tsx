@@ -21,7 +21,6 @@ export default function Chart({data,users}) {
             item.customer_id=== id? sum+=item.amount:null)
         return sum
     }
-    console.log(randomColor)
     let array:any=[]
     users.map((item:item)=>
     array.push({
